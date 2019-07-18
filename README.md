@@ -1,5 +1,7 @@
 # SimpleWrapperLauncher
 
+![GitHub All Releases](https://img.shields.io/github/downloads/UnleavenedEagle/SimpleWrapperLauncher/total.svg)
+
 This application will run another application and exit if the other application exits, but not if it restarts.
 
 
