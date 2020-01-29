@@ -4,11 +4,15 @@
 
 This application will run another application and exit if the other application exits, but not if it restarts.
 
-
 This was made as a temporary solution for a bug in the Godot Engine where Steam would not count the hours spent in Godot:
 
 https://github.com/godotengine/godot/issues/18233
 
+## Better alternative for Godot
+
+If you came here to fix the Godot Engine bug, I recommend you use the following method instead, as it is much easier:
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=1970276543
 
 ## Usage:
 
