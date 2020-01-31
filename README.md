@@ -8,11 +8,13 @@ This was made as a temporary solution for a bug in the Godot Engine where Steam 
 
 https://github.com/godotengine/godot/issues/18233
 
-## Better alternative for Godot
+## ~~Better alternative for Godot~~
 
-If you came here to fix the Godot Engine bug, I recommend you use the following method instead, as it is much easier:
+~~If you came here to fix the Godot Engine bug, I recommend you use the following method instead, as it is much easier:~~
 
-https://steamcommunity.com/sharedfiles/filedetails/?id=1970276543
+~~https://steamcommunity.com/sharedfiles/filedetails/?id=1970276543~~
+
+**Update:** That method is not as good, because it will won't exit after Godot exits. I will keep using my method for now.
 
 ## Usage:
 
