@@ -14,7 +14,7 @@ https://github.com/godotengine/godot/issues/18233
 
 ~~https://steamcommunity.com/sharedfiles/filedetails/?id=1970276543~~
 
-**Update:** That method is not as good, because it will won't exit after Godot exits. I will keep using my method for now.
+**Update:** That method is actually not as good, as it won't exit after Godot exits. I will keep using my method for now.
 
 ## Usage:
 
