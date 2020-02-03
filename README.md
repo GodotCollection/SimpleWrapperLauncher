@@ -11,7 +11,7 @@ https://github.com/godotengine/godot/issues/18233
 ## Download
 As I got asked this multiple times, you can find the compiled (.exe) files available for download on the Releases tab. This is true for every project on GitHub that does include binaries (.exe files).
 
-(Here)[https://github.com/UnleavenedEagle/SimpleWrapperLauncher/releases] is a direct link for you.
+[Here](https://github.com/UnleavenedEagle/SimpleWrapperLauncher/releases) is a direct link for you.
 
 
 ## ~~Better alternative for Godot~~
