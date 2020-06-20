@@ -26,9 +26,9 @@ As I got asked this multiple times, you can find the compiled (.exe) files avail
 
 Put SimpleWrapperLauncher.exe into the same directory as your application.
 
-Rename the original application with the name <name>.exe to _<name>.exe
+Rename the original application with the name `<name>.exe` to `_<name>.exe` (put underscore at the beginning of the exe's filename.)
   
-Rename SimpleWrapperLauncher.exe to the name of your application: <name>.exe
+Rename SimpleWrapperLauncher.exe to the name of your application: `<name>.exe`
   
 
 ## In case of Godot:
